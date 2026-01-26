@@ -1,0 +1,9 @@
+department_id,department_name,department_type
+1,Emergency Department,Clinical
+2,Med Surg,Clinical
+3,ICU,Clinical
+4,NICU,Clinical
+5,Radiology,Ancillary
+6,Laboratory,Ancillary
+7,Pharmacy,Ancillary
+8,Registration,Administrative

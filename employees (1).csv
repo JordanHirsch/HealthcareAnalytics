@@ -1,0 +1,22 @@
+employee_id,department_id,job_title,employment_type,hourly_rate,hire_date,status
+1,1,Registered Nurse,Full-Time,38,2021-03-15,Active
+2,1,Registered Nurse,Full-Time,36,2022-07-10,Active
+3,1,Nurse Technician,Part-Time,22,2023-01-05,Active
+4,1,Charge Nurse,Full-Time,45,2020-11-01,Active
+5,2,Registered Nurse,Full-Time,37,2021-06-20,Active
+6,2,Nurse Technician,Part-Time,23,2023-02-14,Active
+7,2,Charge Nurse,Full-Time,44,2019-09-30,Active
+8,3,Registered Nurse,Full-Time,42,2020-08-18,Active
+9,3,Charge Nurse,Full-Time,48,2018-04-02,Active
+10,4,Registered Nurse,Full-Time,44,2021-05-12,Active
+11,4,Charge Nurse,Full-Time,50,2017-10-22,Active
+12,5,Radiology Technologist,Full-Time,32,2022-01-19,Active
+13,5,Radiology Technologist,Part-Time,30,2023-04-11,Active
+14,6,Lab Technician,Full-Time,29,2020-02-28,Active
+15,6,Lab Technician,Part-Time,27,2022-12-05,Active
+16,7,Pharmacist,Full-Time,60,2019-06-07,Active
+17,7,Pharmacy Technician,Part-Time,26,2023-03-09,Active
+18,8,Registration Clerk,Full-Time,20,2021-09-01,Active
+19,8,Registration Clerk,Part-Time,19,2023-06-15,Active
+20,8,Patient Access Rep,Full-Time,22,2020-01-10,Active
+21,8,Registration Supervisor,Full-Time,28,2018-07-25,Active

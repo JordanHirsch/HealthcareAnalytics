@@ -29,19 +29,17 @@ The goal of this analysis is to understand how staffing decisions, labor costs, 
 | patient_surveys | Patient satisfaction scores and feedback |
 
 ### Key KPIs
+- Employee headcount by Department
+- Call-out rate by department
+- Shift fulfillment rate by department
 
-**Staffing & Labor Metrics**
-- Labor cost as a % of total department cost
-- Overtime rate per employee and per department
-- Staffing utilization rate (actual hours / scheduled hours)
-- Cost per worked hour
+### Tools Used
+- Python (Pandas)
+- SQLite
+- SQL
+- Google Colab
 
-**Reliability Metrics**
-- Call-out rate (% of scheduled shifts missed)
-- Absenteeism frequency
-- Coverage gap rate (shifts understaffed)
-
-**Patient Experience Metrics**
-- Average patient satisfaction score
-- % positive survey responses
-- Correlation between staffing levels and patient satisfaction
+### How to Run
+1. Load CSV files from `/data`
+2. Create SQLite database
+3. Execute SQL queries from `/sql`

@@ -83,8 +83,9 @@ This analysis integrates staffing cost, attendance reliability, and patient sati
 - GitHub (version control and project documentation)
 
 ### Project Structure
+
+```text
 HealthcareAnalytics/
-│
 ├── data/
 │   ├── attendance.csv
 │   ├── departments.csv
@@ -102,6 +103,7 @@ HealthcareAnalytics/
 │   └── 03_call_out_rate.sql
 │
 └── README.md
+```
 
 
 ### Key Takeaways

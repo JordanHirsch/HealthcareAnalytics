@@ -84,11 +84,23 @@ This analysis integrates staffing cost, attendance reliability, and patient sati
 
 ### Project Structure
 HealthcareAnalytics/
-│
-├── hospital_analytics.db        # SQLite database
-├── healthcare_data_generation.ipynb
-├── analysis_notebook.ipynb      # SQL queries and KPI analysis
-├── README.md
+|
+|-- data/
+|---- attendance.csv
+|---- departments.csv
+|---- employees.csv
+|---- patient_surveys.csv
+|---- payroll.csv
+|---- shifts.csv
+|
+|-- notebooks/
+|---- healthcare_data_generation.ipynb
+|
+|-- sql/
+|---- 01_headcount_by_department.sql
+|---- 02_avg_hourly_rate.sql
+|---- 03_call_out_rate.sql
+
 
 ### Key Takeaways
 
@@ -101,6 +113,8 @@ HealthcareAnalytics/
 - Add visualizations to support executive-level insights
 - Expand analysis to overtime and shift-level staffing
 - Incorporate time-series trends for seasonal demand analysis
+
+
 
 ### Author
 #### Jordan Hirsch

@@ -84,22 +84,24 @@ This analysis integrates staffing cost, attendance reliability, and patient sati
 
 ### Project Structure
 HealthcareAnalytics/
-|
-|-- data/
-|---- attendance.csv
-|---- departments.csv
-|---- employees.csv
-|---- patient_surveys.csv
-|---- payroll.csv
-|---- shifts.csv
-|
-|-- notebooks/
-|---- healthcare_data_generation.ipynb
-|
-|-- sql/
-|---- 01_headcount_by_department.sql
-|---- 02_avg_hourly_rate.sql
-|---- 03_call_out_rate.sql
+│
+├── data/
+│   ├── attendance.csv
+│   ├── departments.csv
+│   ├── employees.csv
+│   ├── patient_surveys.csv
+│   ├── payroll.csv
+│   └── shifts.csv
+│
+├── notebooks/
+│   └── healthcare_data_generation.ipynb
+│
+├── sql/
+│   ├── 01_headcount_by_department.sql
+│   ├── 02_avg_hourly_rate.sql
+│   └── 03_call_out_rate.sql
+│
+└── README.md
 
 
 ### Key Takeaways

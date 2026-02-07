@@ -35,6 +35,22 @@ This phase of the project focuses on establishing baseline workforce and labor K
 - Average hourly rate by Department
 - Shift fulfillment rate by department
 
+### Queries:
+
+#### Query 1: Attendance & Patient Satisfaction by Department
+- Measures absenteeism via call-out
+- Aggregates patient satisfaction at the department level
+- Helps identify operational risk areas where staffing issues may impact care quality
+
+#### Query 2: Staffing Cost Index
+- Combines employee count and average hourly rate
+- Acts as a proxy for departmental labor cost intensity
+- Helps compare financial investment across departments
+
+#### Query 3: Cross-Analysis
+- Joins staffing cost, absenteeism and satisfaction
+- Enables trade-off analysis between cost, reliability, and outcomes
+
 ### Tools Used
 - Python (Pandas)
 - SQLite

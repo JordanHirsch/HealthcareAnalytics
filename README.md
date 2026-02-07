@@ -5,6 +5,8 @@ The business analyzed in this project is a healthcare organization focused on de
 
 The goal of this analysis is to understand how staffing decisions, labor costs, and employee availability impact operational performance, patient experience, and overall business outcomes. These insights will support data-driven decisions around workforce planning, cost control, and performance optimization.
 
+This phase of the project focuses on establishing baseline workforce and labor KPIs to support deeper analysis of staffing effectiveness and patient outcomes in subsequent phases.
+
 ## Stakeholders
 - Operations Leadership
 - Human Resources
@@ -30,7 +32,7 @@ The goal of this analysis is to understand how staffing decisions, labor costs, 
 
 ### Key KPIs
 - Employee headcount by Department
-- Call-out rate by department
+- Average hourly rate by Department
 - Shift fulfillment rate by department
 
 ### Tools Used
